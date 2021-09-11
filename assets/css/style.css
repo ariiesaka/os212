@@ -13,13 +13,11 @@
   background-color: #101030;
 }
 
-/* See https://www.w3schools.com/colors/colors_hsl.asp              */
-/* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
 .plainclass1 {
-  color:            hsl(0, 100%, 100%);
-  background-color: hsl(0, 10%, 10%);
-  line-height:      120%;
-  font-family:      monospace,courier;
+  color: #3F3F44;
+  background-color: #F7F7F7;
+  line-height: 120%;
+  font-family: helvetica;
 }
 
 .plainclass1 li {
@@ -57,16 +55,16 @@
 }
 
 .column {
-  float:            left;
-  display:          inline-block;
-  background:       #808080;
-  height:           130px;
-  width:            100%;
-  padding-top:      10px;
-  padding-bottom:   10px;
-  padding-left:     10px;
-  padding-right:    10px;
-  text-align:       left;
+  float: left;
+  display: inline-block;
+  background: #CCEABB;
+  height: 130px;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
 }
 
 .left {
@@ -126,9 +124,9 @@
 }
 
 .navbar ul li {
-  display:          inline-block;
-  background-color: hsla(0,     0%,    0%, 1);
-  padding:          11px;
+  display: inline-block;
+  background-color: #CCEABB;
+  padding: 11px;
 }
 
 .navbar ul li a {
