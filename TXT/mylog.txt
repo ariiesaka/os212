@@ -2,11 +2,19 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 10 L03 GitHub related
-ZCZC W00 30 L04 GitHub Pages related
-ZCZC W00 60 L10 Assignment #00 Membaca materi dari slide Silberschatz
-ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 10 L11 Assignment #01 Create public repository
+ZCZC W00 10 L12 Assignment #02 Create and update log
+ZCZC W00 10 L13 Assignment #03 Create GitHub page using markdown
+ZCZC W00 5 L14 Assignment #04 Register course
+ZCZC W00 60 L15 Assignment #05 Read and watch documents given
+ZCZC W00 100 L02 ZOOM meetings
 ZCZC W00 15 L22 Quiz W0
-ZCZC W01 150 L02 Zoom meetings related
-ZCZC W01 60 L11 Assignment #01 Installing and dressing up VM
-ZCZC W01 15 L11 Assignment #01 SSH Keys and Git Cloning
+ZCZC W01 15 L11 Assignment #01 Download and install VirtualBox, Putty and WINSCP
+ZCZC W01 60 L12 Assignment #02 Install Debian Guest
+ZCZC W01 60 L13 Assignment #03 GSGS scripting
+ZCZC W01 15 L14 Assignment #04 Dress up virtual guest
+ZCZC W01 15 L15 Assignment #05 Connect GitHub using SSH Keys
+ZCZC W01 10 L17 Assignment #07 Update mylog.txt
+ZCZC W01 30 L18 Assignment #08 Practice bash, regex, sed and awk
+ZCZC W01 45 L19 Assignment #09 Read Silberschatz slides
+ZCZC W01 150 L02 Zoom meetings
