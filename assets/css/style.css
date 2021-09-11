@@ -9,13 +9,13 @@
 }
 
 .plainclass {
-  color:            white;
+  color: white;
   background-color: #101030;
 }
 
 .plainclass1 {
-  color: #3F3F44;
-  background-color: #F7F7F7;
+  color: black;
+  background-color: #FBE0C4;
   line-height: 120%;
   font-family: helvetica;
 }
@@ -44,11 +44,11 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: ##2978B5;
 }
 
 .container a:hover {
-  color: #f0f0f0;
+  color: #8AB6D6;
 }
 
 .row {
@@ -57,7 +57,7 @@
 .column {
   float: left;
   display: inline-block;
-  background: #CCEABB;
+  background: #8AB6D6;
   height: 130px;
   width: 100%;
   padding-top: 10px;
@@ -72,13 +72,14 @@
 }
 
 .right {
-  height:           105px;
-  width:            calc(100% - 200px);
-  padding-top:      40px;
-  padding-bottom:   5px;
-  padding-left:     30px;
-  font-size:        1.9em;
-  font-weight:      bold;
+  color: #0061A8;
+  height: 105px;
+  width: calc(100% - 200px);
+  padding-top: 40px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  font-size: 1.9em;
+  font-weight: bold;
 }
 }
 
@@ -125,12 +126,16 @@
 
 .navbar ul li {
   display: inline-block;
-  background-color: #CCEABB;
+  background-color: #2978B5;
   padding: 11px;
+  margin: 5px;
+  border: 5px;
+  border-radius: 25px;
 }
 
 .navbar ul li a {
-  text-decoration:  none;
+  text-decoration: none;
+  color: white;
 }
 
 .navbar ul li a:hover {
