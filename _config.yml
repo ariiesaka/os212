@@ -1,14 +1,16 @@
-version:     "0018b--03-Aug-2021"
+version:     "01a-09-11-21"
 copyright:   "2021-2021"
 description:
   This is a
-  GitHub Page Template
+  GitHub Page for Operating Systems 212
 disclaimer:
   I have spoken.
 keywords:    "jekyll, testing"
 navbarlinks:
 - navbar:    "Home"
   link:      "/"
+- navbar:    "Log"
+  link:      "/TXT/mylog.txt"
 - navbar:    "Links"
   link:      "/LINKS/"
 - navbar:    "Tips"
@@ -25,7 +27,7 @@ navbarlinks:
   link:      "/ABOUT/"
 - navbar:    "GitHub Page"
   link:      "https://ariiesaka.github.io/os212/"
-title:       "Operating Systems - Sistem Operasi"
+title:       "Operating Systems 212"
 lang:        "en-US"
 author:      "Judah A."
 address:     "Indonesia"
