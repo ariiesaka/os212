@@ -4,8 +4,8 @@ permalink: /ABOUT/
 
 # About
 
-This is a GitHub Page template on GitHub.
-Fill free to clone/fork/hijack/whatever it!
+This is a GitHub Page for Operating Systems 212.
+Feel free to check this website.
 
 <br>
 # More Information
