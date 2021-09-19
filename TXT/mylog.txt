@@ -19,3 +19,16 @@ ZCZC W01 30 L18 Assignment #08 Practice bash, regex, sed and awk
 ZCZC W01 45 L19 Assignment #09 Read Silberschatz slides
 ZCZC W01 150 L02 Zoom meetings
 ZCZC W01 60 L16 Assignment #06 Dress up GitHub Page (add links)
+ZCZC W02 30 L11 Assignment #01 Read OSC10 chapter 16 + 17
+ZCZC W02 30 L12 Assignment #02 Try c-language demos
+ZCZC W02 150 L13 Assignment #03 Watch Cyber Security Introduction videos
+ZCZC W02 5 L14 Assignment #04 Generate GnuPG Key Pair
+ZCZC W02 5 L15 Assignment #05 List of all GnuPG Keys
+ZCZC W02 5 L16 Assignment #06 Import OS public key
+ZCZC W02 5 L17 Assignment #07 Sign OS public key
+ZCZC W02 5 L18 Assignment #08 Export public key
+ZCZC W02 10 L19 Assignment #09 Update bookmark links
+ZCZC W02 10 L20 Assignment #10 Review peer links
+ZCZC W02 5 L09 Assignment #11 Copy bash script
+ZCZC W02 10 L09 Assignment #12 Update mylog.txt
+ZCZC W02 5 L09 Assignment #13 Run myscript.sh to generate SHA256SUM and SHA256SUM.asc
