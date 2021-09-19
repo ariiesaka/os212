@@ -16,5 +16,17 @@ Grep is useful for searching files and directories for patterns of text.
 More videos and articles about OS.
 Check it because the link here is still limited.
 
+4. [vi Tutorial](https://www.tutorialspoint.com/unix/unix-vi-editor.htm)
+vi editor cheatsheet for me and hopefully you.
+Need to know it though nano editor is easier for the sake of OS.
+
+5. [C Programming for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0&ab_channel=freeCodeCamp.org)
+Free, totally free, c-programming course for beginners.
+The comments reflect how good this video is, check it out!
+
+6. [Symmetric vs. Asymmetric Encryption](https://www.trentonsystems.com/blog/symmetric-vs-asymmetric-encryption) 
+Nice article explaining the difference between symmetric and asymmetric encryption.
+Find out the advantages and disadvantages of each type of encryption.
+
 <br>
 Qapla!
