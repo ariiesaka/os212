@@ -28,5 +28,12 @@ The comments reflect how good this video is, check it out!
 Nice article explaining the difference between symmetric and asymmetric encryption.
 Find out the advantages and disadvantages of each type of encryption.
 
+7. [Linux File System](https://www.javatpoint.com/linux-file-system)<br>
+Contains definition, structure and feature of Linux File System.
+There is also an explanation of the file types in the linux file system, such as Ext dan JFS File System.
+
+8. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+Three main disk space or file allocation methods are contiguous, linked and indexed (FAT) allocation. What are their advantages and disadvantages? Check it out to find the answer.
+
 <br>
 Qapla!
