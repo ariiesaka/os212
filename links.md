@@ -35,5 +35,14 @@ There is also an explanation of the file types in the linux file system, such as
 8. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
 Three main disk space or file allocation methods are contiguous, linked and indexed (FAT) allocation. What are their advantages and disadvantages? Check it out to find the answer.
 
+9. [Logical and Physical Address Space](https://www.studytonight.com/operating-system/os-logical-and-physical-address-space)<br>
+Learn the difference between logic and physical address. Which one is accessible to the user?
+
+10. [Memory Allocation Algorithm](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/)<br>
+Is Best-Fit really the best algorithm? Find out how each algorithm works here!
+
+11. [Static vs Dynamic Linux Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
+There are many differences between static libraries and dynamic libraries that you should know! Watch all videos to help you understand!
+
 <br>
 Qapla!
