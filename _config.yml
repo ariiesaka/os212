@@ -13,6 +13,8 @@ navbarlinks:
   link:      "/TXT/mylog.txt"
 - navbar:    "Links"
   link:      "/LINKS/"
+- navbar:    "Tips"
+  link:      "/TIPS/"
 - navbar:    "GitHub"
   link:      "https://github.com/ariiesaka/os212"
 - navbar:    "About"
