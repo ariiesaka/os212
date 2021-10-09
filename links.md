@@ -44,5 +44,16 @@ Is Best-Fit really the best algorithm? Find out how each algorithm works here!
 11. [Static vs Dynamic Linux Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)<br>
 There are many differences between static libraries and dynamic libraries that you should know! Watch all videos to help you understand!
 
+12. [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+FIFO, Optimal or LRU? Pick your best algorithm here!
+
+13. [strcpy() vs strcat()](https://www.guru99.com/stdstring-class-in-cpp.html)<br>
+Know the difference and use it wisely! Hope you understand it easily.
+
+14. [What is fgets()?](https://www.tutorialspoint.com/c_standard_library/c_function_fgets.htm)<br>
+fgets is function to read a line from stream. Learn its declaration, parameters and return value.
+
+
+
 <br>
 Qapla!

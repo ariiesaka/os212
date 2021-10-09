@@ -4,18 +4,12 @@ permalink: /TIPS/
 
 # TIPS
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+1. Ikut ZOOM setiap pertemuan. <br>
+Dengan mengikuti ZOOM, kamu dapat bertanya dan belajar hal yang kamu tidak mengerti materi setiap minggunya. Terkadang, dosen juga sering membahas soal yang akan keluar pada kuis, lho. Pembelajaran dalam ZOOM juga sangat interaktif sehingga tidak ada alasan kamu tidak mengikuti ZOOM. 
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
+2. Memiliki teman. <br>
+Bukan untuk menyontek soal quiz, teman bisa membantu kamu lebih memahami materi. Selain itu, jika kamu kesulitan dalam tugas, teman menjadi orang pertama yang kamu hubungi sebelum asdos, karena asdos juga punya kesibukan, apalagi jika kamu menghubungi mereka tengah malam.
 
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
+3. Kerjakan tugas dengan benar tepat waktu! <br>
+Tugas merupakan salah satu hal terpenting dalam matkul OS ini. Jangan sampai telat mengerjakan tugas, apalagi salah, jika kamu tidak ingin memiliki poin JOROK. Tugas tidak terlalu sulit jika kamu memahaminya dengan baik. Ada asdos yang sangat baik yang bisa membantu kamu, jika kamu kesulitan!
 
