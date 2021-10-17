@@ -13,3 +13,6 @@ Bukan untuk menyontek soal quiz, teman bisa membantu kamu lebih memahami materi.
 3. Kerjakan tugas dengan benar tepat waktu! <br>
 Tugas merupakan salah satu hal terpenting dalam matkul OS ini. Jangan sampai telat mengerjakan tugas, apalagi salah, jika kamu tidak ingin memiliki poin JOROK. Tugas tidak terlalu sulit jika kamu memahaminya dengan baik. Ada asdos yang sangat baik yang bisa membantu kamu, jika kamu kesulitan!
 
+4. Periksa forum secara reguler! <br>
+Forum pada Scele merupakan sarana dosen dan mahasiswa OS untuk saling berinteraksi. Jangan lupa untuk selalu memeriksa forum secara reguler karena siapa tau tim dosen ingin menghubungimu, apalagi jika ada kesalahan yang telah kamu lakukan sangat gawat dan harus cepat diperbaiki. Periksa berkala atau kamu akan menyesal!
+

@@ -53,7 +53,14 @@ Know the difference and use it wisely! Hope you understand it easily.
 14. [What is fgets()?](https://www.tutorialspoint.com/c_standard_library/c_function_fgets.htm)<br>
 fgets is function to read a line from stream. Learn its declaration, parameters and return value.
 
+15. [fork() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY&ab_channel=NesoAcademy)<br>
+Fun and excellent video about fork function. Watch this video and get an extra explanation about exec function.
 
+16. [Process vs thread](https://www.guru99.com/difference-between-process-and-thread.html)<br>
+What is process? What is thread? Maybe this site can help you!
+
+17. [Concurrency vs parallelism](https://stackoverflow.com/questions/1050222/what-is-the-difference-between-concurrency-and-parallelism)<br>
+Concurrency -> parallelism but parallelism not -> concurrency. You know what I mean?
 
 <br>
 Qapla!
