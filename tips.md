@@ -16,3 +16,7 @@ Tugas merupakan salah satu hal terpenting dalam matkul OS ini. Jangan sampai tel
 4. Periksa forum secara reguler! <br>
 Forum pada Scele merupakan sarana dosen dan mahasiswa OS untuk saling berinteraksi. Jangan lupa untuk selalu memeriksa forum secara reguler karena siapa tau tim dosen ingin menghubungimu, apalagi jika ada kesalahan yang telah kamu lakukan sangat gawat dan harus cepat diperbaiki. Periksa berkala atau kamu akan menyesal!
 
+5. Kerjakan tugas dengan sepenuh hati! <br>
+Tugas pada mata kuliah ini selalu berkaitan antar minggunya. Usahakan untuk mengerjakan tugas dengan maksimal dan jauh sebelum deadline, agar kamu memiliki waktu untuk mencari tahu apabila ada yang tidak kamu pahami. Jangan mengerjakan tugas dengan asal-asalan karena siapa tau tugas pada minggu ini diperlukan untuk mengerjakan tugas minggu depan.
+
+

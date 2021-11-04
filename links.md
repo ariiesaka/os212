@@ -62,5 +62,15 @@ What is process? What is thread? Maybe this site can help you!
 17. [Concurrency vs parallelism](https://stackoverflow.com/questions/1050222/what-is-the-difference-between-concurrency-and-parallelism)<br>
 Concurrency -> parallelism but parallelism not -> concurrency. You know what I mean?
 
+18. [Race condition](https://searchstorage.techtarget.com/definition/race-condition)<br>
+What exactly is race condition? What can be caused by race condition? Read this article and find out how to prevent it.
+
+19. [Dreadlock](https://www.guru99.com/deadlock-in-operating-system.html)<br>
+Dreadlock can occur due to several conditions. Is dreadlock the same as starvation? This article knows.
+
+20. [Semaphore?](https://www.guru99.com/semaphore-in-operating-system.html)<br>
+There are two types of semaphore, binary and counting. What actually happens when you call wait() and post()?
+
+
 <br>
 Qapla!
