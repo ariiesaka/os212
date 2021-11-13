@@ -71,6 +71,11 @@ Dreadlock can occur due to several conditions. Is dreadlock the same as starvati
 20. [Semaphore?](https://www.guru99.com/semaphore-in-operating-system.html)<br>
 There are two types of semaphore, binary and counting. What actually happens when you call wait() and post()?
 
+21. [Explanation of Scheduling Algorithm](https://www.youtube.com/watch?v=exlaEOVRWQM)<br>
+Watch this fun explanation video about scheduling algorithm (FCFS, SJF, SRTF, and Round Robin). It has good queue illustration making it easier for you to understand each algorithm.
+
+22. [Preemptive and Non-preemptive](https://www.tutorialspoint.com/preemptive-and-non-preemptive-scheduling)<br>
+Do you know what is preemptive and non-preemptive scheduling means? Do you know which type FCFS, SJF, SRTF and Round Robin belong to?
 
 <br>
 Qapla!

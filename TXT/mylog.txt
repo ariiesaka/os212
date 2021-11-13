@@ -87,4 +87,15 @@ ZCZC W07 10 L16 Assignment #06 Update tips
 ZCZC W07 15 L17 Assignment #07 Update peer links
 ZCZC W07 10 L18 Assignment #08 Update log
 ZCZC W07 5 L19 Assignment #09 Submit week 07 assignment
-
+ZCZC W07 20 L05 Quiz
+ZCZC W08 45 L11 Assignment #01 Read OSC10 chapter 5
+ZCZC W08 30 L12 Assignment #02 Try demos
+ZCZC W08 30 L13 Assignment #03 Try previous midterm problems
+ZCZC W08 30 L14 Assignment #04 LFS Chapter 01-04
+ZCZC W08 60 L15 Assignment #05 LFS Chapter 05
+ZCZC W08 15 L16 Assignment #06 Update links
+ZCZC W08 10 L17 Assignment #07 Update tips
+ZCZC W08 10 L18 Assignment #08 Update peer links
+ZCZC W08 10 L19 Assignment #09 Update log
+ZCZC W08 5 L20 Assignment #10 Submit week 08 assignment
+ZCZC W08 100 L02 Zoom meetings with Pak Anwar

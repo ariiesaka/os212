@@ -19,4 +19,5 @@ Forum pada Scele merupakan sarana dosen dan mahasiswa OS untuk saling berinterak
 5. Kerjakan tugas dengan sepenuh hati! <br>
 Tugas pada mata kuliah ini selalu berkaitan antar minggunya. Usahakan untuk mengerjakan tugas dengan maksimal dan jauh sebelum deadline, agar kamu memiliki waktu untuk mencari tahu apabila ada yang tidak kamu pahami. Jangan mengerjakan tugas dengan asal-asalan karena siapa tau tugas pada minggu ini diperlukan untuk mengerjakan tugas minggu depan.
 
-
+6. Biasakan GSGS! <br>
+Dalam belajar, kadang kamu memiliki kendala atau masalah. Sedangkan dosen dan teman-teman tidak akan selalu tersedia untuk membantumu. Google Sana Google Sini adalah solusi yang paling baik, khususnya jika kamu itu deadliner. Tetapi, selalu berhati-hati dengan solusi di internet. Pastikan sumber yang kamu pilih itu terpercaya dan tidak merusak VBox kamu ya, atau terima konsekuensinya!
