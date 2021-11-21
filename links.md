@@ -77,5 +77,8 @@ Watch this fun explanation video about scheduling algorithm (FCFS, SJF, SRTF, an
 22. [Preemptive and Non-preemptive](https://www.tutorialspoint.com/preemptive-and-non-preemptive-scheduling)<br>
 Do you know what is preemptive and non-preemptive scheduling means? Do you know which type FCFS, SJF, SRTF and Round Robin belong to?
 
+23. [Redundant Arrays of Independent Disks](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)<br>
+What is RAID and what are its benefits? Let's find out the types of RAID and the differences between each type.
+
 <br>
 Qapla!

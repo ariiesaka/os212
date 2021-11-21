@@ -21,3 +21,8 @@ Tugas pada mata kuliah ini selalu berkaitan antar minggunya. Usahakan untuk meng
 
 6. Biasakan GSGS! <br>
 Dalam belajar, kadang kamu memiliki kendala atau masalah. Sedangkan dosen dan teman-teman tidak akan selalu tersedia untuk membantumu. Google Sana Google Sini adalah solusi yang paling baik, khususnya jika kamu itu deadliner. Tetapi, selalu berhati-hati dengan solusi di internet. Pastikan sumber yang kamu pilih itu terpercaya dan tidak merusak VBox kamu ya, atau terima konsekuensinya!
+
+7. Cek Discord setiap saat!
+Discord merupakan wadah yang disediakan oleh Asisten Dosen bagi mahasiswa untuk bisa berinteraksi dengan mereka. Salah satu keuntungan apabila kamu bergabung dengan Discord adalah fitur assignment-helpdesk. Dengan fitur tersebut, kamu bisa bertanya secara anonymous, ataupun tidak. Tidak hanya Asisten Dosen, teman-teman kamu yang lebih paham juga bisa ikut membantu kamu. Jangan lupa untuk selalu mengecek Discord setiap saat untuk melihat apakah ada kendala yang sedang kamu alami atau hal-hal baru yang belum kamu ketahui namun sangat kamu butuhkan!
+
+
